@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nandita</h1>
-<h3 align="center">A university student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandita-mvs&label=Profile%20views&color=0e75b6&style=flat" alt="nandita-mvs" /> </p>
 
