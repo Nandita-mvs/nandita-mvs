@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandita-mvs&label=Profile%20views&color=0e75b6&style=flat" alt="nandita-mvs" /> </p>
 
-- 🌱 I’m currently learning **Django , Javascript**
+- 🌱 I’m currently learning **Django , ReactJS**
 
-- 👨‍💻 All of my projects are available at [nandita-mvs.github.io](nandita-mvs.github.io)
+- 👨‍💻 All of my projects are available at [https://nandita-mvs.github.io/](nandita-mvs.github.io)
 
 - 📫 How to reach me **nandita.mvs10@gmail.com**
 
