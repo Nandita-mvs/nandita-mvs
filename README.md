@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Django , ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://nandita-mvs.github.io/Personal-site/]
+- 👨‍💻 All of my projects are available at my [website](https://nandita-mvs.github.io/Personal-site/)
 
 
 - 📫 How to reach me **nandita.mvs10@gmail.com**
